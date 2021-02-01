@@ -1,7 +1,7 @@
 ---
 name: AlphaFest issue template
 about: Describe this issue template's purpose here.
-title: Feature/XXX - **Titre**
+title: AlphaFeature/XXX - **Titre**
 labels: ''
 assignees: ''
 
