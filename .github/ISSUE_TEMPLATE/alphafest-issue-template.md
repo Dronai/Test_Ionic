@@ -1,13 +1,11 @@
 ---
 name: AlphaFest issue template
 about: Describe this issue template's purpose here.
-title: Feature/
+title: Feature/XXX - **Titre**
 labels: ''
 assignees: ''
 
 ---
-
-### **Titre**
 
 **Description de la fonctionnalité à ajouter**
 
