@@ -1,0 +1,3 @@
+[submodule "modules/internship_velib"]
+	path = modules/internship_velib
+	url = https://github.com/Dronai/intership_velib.git
