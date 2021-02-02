@@ -1,3 +1,7 @@
 [submodule "modules/internship_velib"]
 	path = modules/internship_velib
 	url = https://github.com/Dronai/intership_velib.git
+[submodule "modules/portfolio"]
+	path = modules/portfolio
+	url = https://github.com/Dronai/portfolio.git
+	branch = configonly
